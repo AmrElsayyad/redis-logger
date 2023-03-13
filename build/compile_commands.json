@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/amr/GitHub/redis-logger/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/redis-logger.dir/main.cpp.o -c /home/amr/GitHub/redis-logger/main.cpp",
+  "file": "/home/amr/GitHub/redis-logger/main.cpp"
+}
+]

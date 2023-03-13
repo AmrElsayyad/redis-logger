@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/redis-logger.dir/main.cpp.o -o redis-logger  -Wl,-rpath,/usr/local/lib -lhiredis /usr/local/lib/libredis++.so 
